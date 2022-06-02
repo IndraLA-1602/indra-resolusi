@@ -3,7 +3,11 @@ RENCANA BELAJAR INDRA
 - Pemrograman Web
   * Pengenalan 
   * Cara Kerja
+    ^ Web Server
+    ^ Variabel
 - Bahasa Indonesia
 - Jaringan Komputer
+  ^ Topologi
 - Riset Operasi
 - Agama
+- Animasi 
