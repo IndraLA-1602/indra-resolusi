@@ -3,6 +3,7 @@ RENCANA BELAJAR INDRA
 - Pemrograman Web
   * Pengenalan 
   * Cara Kerja
+- Bahasa Indonesia
 - Jaringan Komputer
 - Riset Operasi
 - Agama
